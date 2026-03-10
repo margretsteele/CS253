@@ -3,3 +3,12 @@ a.out
 *.out
 .DS_Store
 ~$*
+*.docx
+*.xlsx
+*.xls
+*.doc
+*.ppt
+*.pptx
+*.pub
+*.vsd
+*.vsdx
